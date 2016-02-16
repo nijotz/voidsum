@@ -1,0 +1,4 @@
+Data screams
+===
+voidsum [FILE1] [FILE2]..
+echo bundle exec | voidsum
